@@ -1,7 +1,13 @@
 # 💫 About Me:
-⚡ I am currently working as a developer
 <img align="right" alt="coding" width="300" height="200" src="https://camo.githubusercontent.com/073e698f640d45f8ce4b39d9a9606f155b1a3eef844bfafadc359ad946ad38de/68747470733a2f2f6570696370726f6772616d6d65726173736574732e6e65746c6966792e6170702f4173736574732f636f64652e6769663f7261773d74727565">
   
+⚡ I am currently working as a developer <br>
+⚡ I am currently working as a developer <br>
+⚡ I am currently working as a developer <br>
+⚡ I am currently working as a developer <br>
+⚡ I am currently working as a developer <br>
+⚡ I am currently working as a developer <br>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/achraf-lahrouchi-096424268/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Achraf_55) 
 
